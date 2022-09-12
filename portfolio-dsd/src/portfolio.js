@@ -21,13 +21,11 @@ export const main = {
 
 // AboutMe
 export const aboutme = {
-  imgLink:
-    "https://raw.githubusercontent.com/deepak7843/important/main/Deepak%20Shankar%20Dubey%20..%20fw15_534.jpg",
+  imgLink:"https://raw.githubusercontent.com/deepak7843/important/main/circle.png",
   p1: "Hey, My name is Deepak Shankar dubey.I believe practice makes perfect. A Btech holder in Mechanical Engineering. I got to know about Masai School and its Web Development program from a friend. I believed this to be a career that I would excel in and registered for this course. Now, I am working on various projects and have improved my skills in MERN Stack, HTML, CSS, JavaScript, Node.js, MongoDB, Mongoose, etc",
-  
+
   // I have completed my Bachelor of Management Studies from B.K. Birla college of Science,Arts and Commerce.",
   p2: " I'm a passionate coder and an enthusiastic Web Developer capable of applying programming skills to solve complex problems. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.",
- 
 };
 
 // Skills
@@ -142,7 +140,7 @@ sorting and filter, add to cart functionality, order summary on the checkout pag
 
     img: "https://raw.githubusercontent.com/deepak7843/important/main/project%20pics/boat.png",
     github: "https://github.com/Neeraj7071/boAt-lifestyle",
-    link: "https://boat-clone-1.vercel.app/"
+    link: "https://boat-clone-1.vercel.app/",
   },
   {
     id: 2,
@@ -156,8 +154,8 @@ sorting and filter, add to cart functionality, order summary on the checkout pag
     img: "https://raw.githubusercontent.com/deepak7843/important/main/project%20pics/udemy%20project.png",
     link: "https://cloneudemy.netlify.app/",
     github: "https://github.com/Ashish240399/Udemy_Clone",
-},
-  
+  },
+
   {
     id: 3,
     title: "Mytheresa-Clone",
@@ -178,48 +176,47 @@ Add to cart & Check out.`,
     link: "https://charming-cat-296ee7.netlify.app/",
   },
 
-//   {
-//     id: 4,
-//     title: "MakeMYHome",
-//     desc: `A small React app to keep the details of the flats and their residents in a society.`,
-//     feature: `User authentication using MongoDB,
-//     Private Routing,
-//     Filter and sorting.`,
-//     tech: `Tech Stack: React | CSS | NodeJS | Exprees | MongoDB .`,
-//     img: "https://github.com/Shivam2101s/images/blob/main/makeMyHouse1.jpg?raw=true",
-//     github: "https://github.com/Shivam2101s/Apartment-Flat-Manager",
-//     link:"https://apartment-flats-manager-shivam2101s.vercel.app"
-//   },
-//   {
-//     id: 5,
-//     title: "Eva Translate",
-//     desc: `Eva Translate is a translating tool, users can translate text from one language to another and also hear its correct pronunciation.`,
-//     feature: `Language translation,
-//     Speech-to-text.`,
-//     tech: `Tech Stack: HTML | CSS | JavaScript .`,
-//     img: "https://github.com/Shivam2101s/images/blob/main/eva%20translate.jpg?raw=true",
-//     link: "https://evatranslate.netlify.app/",
-//     github: "https://github.com/Shivam2101s/Eva-Translate",
-//   },
-//   {
-//     id: 6,
-//     title: "My Recipe App",
-//     desc: `It's a food recipe app, users can search recipes of various dishes and also see the latest recipes as well as the recipe of the day.`,
-//     feature: `Search recipe,
-// Recipe of the day.`,
-//     tech: `Tech Stack: HTML | CSS | JavaScript`,
-//     img: "https://github.com/Shivam2101s/images/blob/main/food%20app.jpg?raw=true",
-//     link: "https://myfoodapp21.netlify.app/",
-//     github: "https://github.com/Shivam2101s/Food-app",
-//    },
+  //   {
+  //     id: 4,
+  //     title: "MakeMYHome",
+  //     desc: `A small React app to keep the details of the flats and their residents in a society.`,
+  //     feature: `User authentication using MongoDB,
+  //     Private Routing,
+  //     Filter and sorting.`,
+  //     tech: `Tech Stack: React | CSS | NodeJS | Exprees | MongoDB .`,
+  //     img: "https://github.com/Shivam2101s/images/blob/main/makeMyHouse1.jpg?raw=true",
+  //     github: "https://github.com/Shivam2101s/Apartment-Flat-Manager",
+  //     link:"https://apartment-flats-manager-shivam2101s.vercel.app"
+  //   },
+  //   {
+  //     id: 5,
+  //     title: "Eva Translate",
+  //     desc: `Eva Translate is a translating tool, users can translate text from one language to another and also hear its correct pronunciation.`,
+  //     feature: `Language translation,
+  //     Speech-to-text.`,
+  //     tech: `Tech Stack: HTML | CSS | JavaScript .`,
+  //     img: "https://github.com/Shivam2101s/images/blob/main/eva%20translate.jpg?raw=true",
+  //     link: "https://evatranslate.netlify.app/",
+  //     github: "https://github.com/Shivam2101s/Eva-Translate",
+  //   },
+  //   {
+  //     id: 6,
+  //     title: "My Recipe App",
+  //     desc: `It's a food recipe app, users can search recipes of various dishes and also see the latest recipes as well as the recipe of the day.`,
+  //     feature: `Search recipe,
+  // Recipe of the day.`,
+  //     tech: `Tech Stack: HTML | CSS | JavaScript`,
+  //     img: "https://github.com/Shivam2101s/images/blob/main/food%20app.jpg?raw=true",
+  //     link: "https://myfoodapp21.netlify.app/",
+  //     github: "https://github.com/Shivam2101s/Food-app",
+  //    },
 ];
 
 // Social Media Links
 export const links = [
- 
   "https://www.linkedin.com/in/deepak-shankar-dubey",
   "https://api.whatsapp.com/send/?phone=917906074990&text&app_absent=0",
   "mailto:deepakshankardubey123@gmail.com",
- 
-  "https://github.com/deepak7843" 
+
+  "https://github.com/deepak7843",
 ];
